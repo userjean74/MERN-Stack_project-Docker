@@ -1,4 +1,4 @@
-# Complete step-by-step guide: Make the MERN Stack project work with Docker
+# Building a MERN Stack Application with Docker Compose
 
 This guide walks you through the entire project, from opening your terminal and creating the folders to running the application, testing every feature, and troubleshooting errors.
 
